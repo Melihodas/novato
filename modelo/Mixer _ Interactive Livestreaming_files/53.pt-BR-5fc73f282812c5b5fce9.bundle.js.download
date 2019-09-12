@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{2233:function(e,n,a){"use strict";a.r(n);var l=a(822),t=a(44),o=a(6),u=l.a.locales.sort(function(e,n){return e.name.localeCompare(n.name)}),r=[{key:"all",value:"Todos"}].concat(u.map(function(e){return{key:e.code,value:e.name}})),c=function(e){return o.createElement(t.Select,{label:"Idioma",options:r,value:e.currentValue,onChange:e.onChange},t.TextOption)};a.d(n,"default",function(){return c})}}]);
+//# sourceMappingURL=53.pt-BR-5fc73f282812c5b5fce9.bundle.js.map

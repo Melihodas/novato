@@ -1,0 +1,24 @@
+.redDotAndLiveString_3UOnp {
+  display: flex;
+  background: rgba(17, 17, 17, 0.8);
+  border-radius: 4px;
+  padding: 0 4px;
+  align-items: center; }
+  .redDotAndLiveString_3UOnp .redDot_3JymZ {
+    height: 8px;
+    width: 8px;
+    background-color: #df158a;
+    border-radius: 50%;
+    margin-left: 4px;
+    display: inline-block; }
+  .redDotAndLiveString_3UOnp .liveString_2zkoA {
+    color: #fff;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 17px;
+    text-transform: uppercase;
+    margin-left: 4px; }
+
+
+/*# sourceMappingURL=42.style.pt-BR-08c3a625a452baf8ef7b.css.map*/

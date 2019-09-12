@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{2232:function(e,n,l){"use strict";l.r(n);var i=l(44),o=l(6),t=[{key:"all",value:"Todos"},{key:"family",value:"Para toda a família"},{key:"teen",value:"Adolescente"},{key:"18+",value:"Maior de 18 anos"}],a=function(e){return o.createElement(i.Select,{label:"Público",options:t,value:e.currentValue,onChange:e.onChange},i.TextOption)};l.d(n,"default",function(){return a})}}]);
+//# sourceMappingURL=52.pt-BR-752b2c5d95d3e80fb4a6.bundle.js.map
